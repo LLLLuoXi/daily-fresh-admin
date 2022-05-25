@@ -2,6 +2,7 @@
 node_modules
 /dist
 /src/assets/css/*.css
+/src/*.css
 
 
 # local env files

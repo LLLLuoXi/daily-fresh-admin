@@ -1,6 +1,6 @@
 /*
  * @Author: luoxi
- * @LastEditTime: 2022-03-20 14:06:23
+ * @LastEditTime: 2022-05-25 22:22:00
  * @LastEditors: your name
  * @Description:
  */
@@ -15,6 +15,7 @@ const routes = [
     path: "/",
     name: "Home",
     component: Home,
+    children: [],
   },
   {
     path: "/about",
